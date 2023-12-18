@@ -1,4 +1,7 @@
-# Logistic Map Analysis
+# Non-Linear State Space Modeling
+
+## 
+The pdf file "STA_237A___Project_Report.pdf" contains the project report.
 
 ## Bifurcation Diagram Notebook
 The notebook "Bifurcation_Diagram.ipynb" contains the code and analysis for generating the bifurcation diagram of the logistic map. 
